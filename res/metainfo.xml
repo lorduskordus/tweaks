@@ -22,16 +22,16 @@
   <content_rating type="oars-1.1" />
   <description>
     <p>Personalize your COSMIC desktop beyond infinity</p>
-    <p>Přizpůsobte své prostředí COSMIC až za hranice nekonečna</p>
+    <p>Přizpůsobte si své prostředí COSMIC až za hranice nekonečna</p>
     <ul>
       <li>Save, import and download color schemes</li>
       <li xml:lang="cs">Ukládejte, importujte a stahujte barevná schémata</li>
       <li>Customize the panel and dock</li>
-      <li xml:lang="cs">Přizpůsobte panel a dok</li>
+      <li xml:lang="cs">Přizpůsobte si panel a dok</li>
       <li>Replicate other desktop's layouts</li>
-      <li xml:lang="cs">Kopírujte rozložení jiných desktopů</li>
+      <li xml:lang="cs">Kopírujte rozložení jiných ploch</li>
       <li>Fearless tweaking with snapshots</li>
-      <li xml:lang="cs">Bezpečné úpravy díky snapshotům</li>
+      <li xml:lang="cs">Bezpečné úpravy díky snímkům</li>
     </ul>
   </description>
   <branding>
@@ -84,12 +84,12 @@
     <screenshot>
       <image>https://raw.githubusercontent.com/cosmic-utils/tweaks/main/res/screenshots/snapshots-light.png</image>
       <caption>Snapshots page with light mode</caption>
-      <caption xml:lang="cs">Stránka snapshotů ve světlém režimu</caption>
+      <caption xml:lang="cs">Stránka snímků ve světlém režimu</caption>
     </screenshot>
     <screenshot>
       <image>https://raw.githubusercontent.com/cosmic-utils/tweaks/main/res/screenshots/snapshots-dark.png</image>
       <caption>Snapshots page with dark mode</caption>
-      <caption xml:lang="cs">Stránka snapshotů v tmavém režimu</caption>
+      <caption xml:lang="cs">Stránka snímků v tmavém režimu</caption>
     </screenshot>
   </screenshots>
   <requires>
